@@ -11,5 +11,5 @@ jobs:
         uses: jiasm/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 6ea95c9532fd694bce307e42401cc803
+          GIST_ID: fb21317fb5b26426958049891486805f
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
